@@ -1,0 +1,406 @@
+{
+  "response" : [ {
+    "systemGroup" : true,
+    "additionalInfo" : [ ],
+    "name" : "Global",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "7b56c272-4ccd-4187-8820-b7b66fdce4be",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be",
+    "siteNameHierarchy" : "Global"
+  }, {
+    "parentId" : "7b56c272-4ccd-4187-8820-b7b66fdce4be",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "addressInheritedFrom" : "426527cd-b53b-4980-a3c0-3daa70bdcd5b",
+        "type" : "area"
+      }
+    } ],
+    "name" : "Owings Mills",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "426527cd-b53b-4980-a3c0-3daa70bdcd5b",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/426527cd-b53b-4980-a3c0-3daa70bdcd5b",
+    "siteNameHierarchy" : "Global/Owings Mills"
+  }, {
+    "parentId" : "ed2bc3ef-e2f8-455f-981c-4ea6d3adc58b",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "addressInheritedFrom" : "ed2bc3ef-e2f8-455f-981c-4ea6d3adc58b",
+        "type" : "floor"
+      }
+    }, {
+      "nameSpace" : "mapsSummary",
+      "attributes" : {
+        "rfModel" : "37040",
+        "locationGroup" : "",
+        "floorIndex" : "1"
+      }
+    }, {
+      "nameSpace" : "mapGeometry",
+      "attributes" : {
+        "offsetX" : "0.0",
+        "offsetY" : "0.0",
+        "length" : "100.0",
+        "width" : "100.0",
+        "geometryType" : "DUMMYTYPE",
+        "height" : "10.0"
+      }
+    } ],
+    "name" : "Basement",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "fbcc135f-3e97-41d3-8a72-6a13163dd94d",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/71a3de9e-72c8-4e63-9211-8a51d578a6b2/ed2bc3ef-e2f8-455f-981c-4ea6d3adc58b/fbcc135f-3e97-41d3-8a72-6a13163dd94d",
+    "siteNameHierarchy" : "Global/Baltimore/Mercy Medical Center/Basement"
+  }, {
+    "parentId" : "7b56c272-4ccd-4187-8820-b7b66fdce4be",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "addressInheritedFrom" : "84168022-4ea7-4842-8055-2fb84711f9cb",
+        "type" : "area"
+      }
+    } ],
+    "name" : "Washington DC",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "84168022-4ea7-4842-8055-2fb84711f9cb",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/84168022-4ea7-4842-8055-2fb84711f9cb",
+    "siteNameHierarchy" : "Global/Washington DC"
+  }, {
+    "parentId" : "84168022-4ea7-4842-8055-2fb84711f9cb",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "country" : "United States",
+        "address" : "1650 Pennsylvania Avenue NW, Washington, DC 20502, United States",
+        "latitude" : "38.898122",
+        "addressInheritedFrom" : "a8af4c28-3e16-45bb-aed9-fca412f7aff6",
+        "type" : "building",
+        "longitude" : "-77.038718"
+      }
+    } ],
+    "name" : "Eisenhower Executive Office Building",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "a8af4c28-3e16-45bb-aed9-fca412f7aff6",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/84168022-4ea7-4842-8055-2fb84711f9cb/a8af4c28-3e16-45bb-aed9-fca412f7aff6",
+    "siteNameHierarchy" : "Global/Washington DC/Eisenhower Executive Office Building"
+  }, {
+    "parentId" : "42ecdc06-d03c-4aeb-9542-28c511d1540e",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "country" : "United States",
+        "address" : "720 Alder Drive, Milpitas, California 95035, United States",
+        "latitude" : "37.413165",
+        "addressInheritedFrom" : "2a77ddbb-42f2-4b90-8b43-338ac9188570",
+        "type" : "building",
+        "longitude" : "-121.915801"
+      }
+    } ],
+    "name" : "Bldg-20",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "2a77ddbb-42f2-4b90-8b43-338ac9188570",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/42ecdc06-d03c-4aeb-9542-28c511d1540e/2a77ddbb-42f2-4b90-8b43-338ac9188570",
+    "siteNameHierarchy" : "Global/San Jose/Bldg-20"
+  }, {
+    "parentId" : "a8af4c28-3e16-45bb-aed9-fca412f7aff6",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "mapsSummary",
+      "attributes" : {
+        "rfModel" : "37040",
+        "imageURL" : "",
+        "isCadFile" : "false",
+        "locationGroup" : null,
+        "floorIndex" : "1"
+      }
+    }, {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "address" : "1650 Pennsylvania Avenue NW, Washington, DC 20502, United States",
+        "addressInheritedFrom" : "a8af4c28-3e16-45bb-aed9-fca412f7aff6",
+        "type" : "floor"
+      }
+    }, {
+      "nameSpace" : "mapGeometry",
+      "attributes" : {
+        "offsetX" : "0.0",
+        "offsetY" : "0.0",
+        "width" : "150.0",
+        "length" : "150.0",
+        "geometryType" : "DUMMYTYPE",
+        "height" : "15.0"
+      }
+    } ],
+    "name" : "Basement",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "25bc2898-cffe-4acd-8cc0-da9e9b56909f",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/84168022-4ea7-4842-8055-2fb84711f9cb/a8af4c28-3e16-45bb-aed9-fca412f7aff6/25bc2898-cffe-4acd-8cc0-da9e9b56909f",
+    "siteNameHierarchy" : "Global/Washington DC/Eisenhower Executive Office Building/Basement"
+  }, {
+    "parentId" : "426527cd-b53b-4980-a3c0-3daa70bdcd5b",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "country" : "United States",
+        "address" : "11550 Cronridge Drive, Owings Mills, Maryland 21117, United States",
+        "latitude" : "39.443295",
+        "addressInheritedFrom" : "3a602897-3bbb-4c29-8ed9-c8f89d80693c",
+        "type" : "building",
+        "longitude" : "-76.771357"
+      }
+    } ],
+    "name" : "Tech Center",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "3a602897-3bbb-4c29-8ed9-c8f89d80693c",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/426527cd-b53b-4980-a3c0-3daa70bdcd5b/3a602897-3bbb-4c29-8ed9-c8f89d80693c",
+    "siteNameHierarchy" : "Global/Owings Mills/Tech Center"
+  }, {
+    "parentId" : "7b56c272-4ccd-4187-8820-b7b66fdce4be",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "addressInheritedFrom" : "42ecdc06-d03c-4aeb-9542-28c511d1540e",
+        "type" : "area"
+      }
+    } ],
+    "name" : "San Jose",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "42ecdc06-d03c-4aeb-9542-28c511d1540e",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/42ecdc06-d03c-4aeb-9542-28c511d1540e",
+    "siteNameHierarchy" : "Global/San Jose"
+  }, {
+    "parentId" : "7b56c272-4ccd-4187-8820-b7b66fdce4be",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "addressInheritedFrom" : "71a3de9e-72c8-4e63-9211-8a51d578a6b2",
+        "type" : "area"
+      }
+    } ],
+    "name" : "Baltimore",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "71a3de9e-72c8-4e63-9211-8a51d578a6b2",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/71a3de9e-72c8-4e63-9211-8a51d578a6b2",
+    "siteNameHierarchy" : "Global/Baltimore"
+  }, {
+    "parentId" : "7b56c272-4ccd-4187-8820-b7b66fdce4be",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "addressInheritedFrom" : "717e163f-c9e7-4caa-a8e8-5df106bfc13d",
+        "type" : "area"
+      }
+    } ],
+    "name" : "Luxembourg",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "717e163f-c9e7-4caa-a8e8-5df106bfc13d",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/717e163f-c9e7-4caa-a8e8-5df106bfc13d",
+    "siteNameHierarchy" : "Global/Luxembourg"
+  }, {
+    "parentId" : "3a602897-3bbb-4c29-8ed9-c8f89d80693c",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "address" : "11550 Cronridge Drive, Owings Mills, Maryland 21117, United States",
+        "addressInheritedFrom" : "3a602897-3bbb-4c29-8ed9-c8f89d80693c",
+        "type" : "floor"
+      }
+    }, {
+      "nameSpace" : "mapGeometry",
+      "attributes" : {
+        "offsetX" : "0.0",
+        "offsetY" : "0.0",
+        "length" : "100.0",
+        "width" : "100.0",
+        "geometryType" : "DUMMYTYPE",
+        "height" : "10.0"
+      }
+    }, {
+      "nameSpace" : "mapsSummary",
+      "attributes" : {
+        "rfModel" : "37037",
+        "locationGroup" : "",
+        "floorIndex" : "1"
+      }
+    } ],
+    "name" : "Floor 1",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "ba391fcb-8048-46b6-b3c6-6240de07b1ca",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/426527cd-b53b-4980-a3c0-3daa70bdcd5b/3a602897-3bbb-4c29-8ed9-c8f89d80693c/ba391fcb-8048-46b6-b3c6-6240de07b1ca",
+    "siteNameHierarchy" : "Global/Owings Mills/Tech Center/Floor 1"
+  }, {
+    "parentId" : "7b56c272-4ccd-4187-8820-b7b66fdce4be",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "addressInheritedFrom" : "36a22a52-be31-4140-b555-c319a7c2e697",
+        "type" : "area"
+      }
+    } ],
+    "name" : "Bruxelles",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "36a22a52-be31-4140-b555-c319a7c2e697",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/36a22a52-be31-4140-b555-c319a7c2e697",
+    "siteNameHierarchy" : "Global/Bruxelles"
+  }, {
+    "parentId" : "71a3de9e-72c8-4e63-9211-8a51d578a6b2",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "country" : "United States",
+        "latitude" : "39.292810",
+        "addressInheritedFrom" : "ed2bc3ef-e2f8-455f-981c-4ea6d3adc58b",
+        "type" : "building",
+        "longitude" : "-76.613540"
+      }
+    } ],
+    "name" : "Mercy Medical Center",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "ed2bc3ef-e2f8-455f-981c-4ea6d3adc58b",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/71a3de9e-72c8-4e63-9211-8a51d578a6b2/ed2bc3ef-e2f8-455f-981c-4ea6d3adc58b",
+    "siteNameHierarchy" : "Global/Baltimore/Mercy Medical Center"
+  }, {
+    "parentId" : "ed2bc3ef-e2f8-455f-981c-4ea6d3adc58b",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "mapGeometry",
+      "attributes" : {
+        "offsetX" : "0.0",
+        "offsetY" : "0.0",
+        "length" : "100.0",
+        "width" : "100.0",
+        "geometryType" : "DUMMYTYPE",
+        "height" : "10.0"
+      }
+    }, {
+      "nameSpace" : "mapsSummary",
+      "attributes" : {
+        "rfModel" : "37037",
+        "locationGroup" : "",
+        "floorIndex" : "1"
+      }
+    }, {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "addressInheritedFrom" : "ed2bc3ef-e2f8-455f-981c-4ea6d3adc58b",
+        "type" : "floor"
+      }
+    } ],
+    "name" : "Floor 1",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "b093205c-ba4b-4f7a-895e-efe33f9d519e",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/71a3de9e-72c8-4e63-9211-8a51d578a6b2/ed2bc3ef-e2f8-455f-981c-4ea6d3adc58b/b093205c-ba4b-4f7a-895e-efe33f9d519e",
+    "siteNameHierarchy" : "Global/Baltimore/Mercy Medical Center/Floor 1"
+  }, {
+    "parentId" : "717e163f-c9e7-4caa-a8e8-5df106bfc13d",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "country" : "Luxembourg",
+        "address" : "Kirchberg, Luxembourg, Luxembourg, Luxembourg",
+        "latitude" : "49.621466",
+        "addressInheritedFrom" : "21194cfb-ee88-471e-9ec7-884703e086af",
+        "type" : "building",
+        "longitude" : "6.148074"
+      }
+    }, {
+      "nameSpace" : "ETA",
+      "attributes" : {
+        "member.etaCapable.direct" : "2",
+        "member.etaReady.direct" : "2",
+        "ETAReady" : "true",
+        "member.etaNotReady.direct" : "0",
+        "member.etaReadyNotEnabled.direct" : "2",
+        "member.etaEnabled.direct" : "0"
+      }
+    } ],
+    "name" : "KADII",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "21194cfb-ee88-471e-9ec7-884703e086af",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/717e163f-c9e7-4caa-a8e8-5df106bfc13d/21194cfb-ee88-471e-9ec7-884703e086af",
+    "siteNameHierarchy" : "Global/Luxembourg/KADII"
+  }, {
+    "parentId" : "904b485e-899a-4bba-9901-c0b0002f8a32",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "address" : "Rue De La Loi - Wetstraat, Brussels, 1040 Brussels-Capital, Belgium",
+        "addressInheritedFrom" : "904b485e-899a-4bba-9901-c0b0002f8a32",
+        "type" : "floor"
+      }
+    }, {
+      "nameSpace" : "mapsSummary",
+      "attributes" : {
+        "rfModel" : "37039",
+        "locationGroup" : "",
+        "floorIndex" : "1"
+      }
+    }, {
+      "nameSpace" : "mapGeometry",
+      "attributes" : {
+        "offsetX" : "0.0",
+        "offsetY" : "0.0",
+        "length" : "328.08",
+        "width" : "328.08",
+        "geometryType" : "DUMMYTYPE",
+        "height" : "32.81"
+      }
+    } ],
+    "name" : "Etage 1",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "ef5c5c29-6626-4d8c-84bc-2016962a7cf5",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/36a22a52-be31-4140-b555-c319a7c2e697/904b485e-899a-4bba-9901-c0b0002f8a32/ef5c5c29-6626-4d8c-84bc-2016962a7cf5",
+    "siteNameHierarchy" : "Global/Bruxelles/PHS/Etage 1"
+  }, {
+    "parentId" : "36a22a52-be31-4140-b555-c319a7c2e697",
+    "systemGroup" : false,
+    "groupTypeList" : [ "SITE" ],
+    "additionalInfo" : [ {
+      "nameSpace" : "Location",
+      "attributes" : {
+        "country" : "Belgium",
+        "address" : "Rue De La Loi - Wetstraat, Brussels, 1040 Brussels-Capital, Belgium",
+        "latitude" : "50.838437",
+        "addressInheritedFrom" : "904b485e-899a-4bba-9901-c0b0002f8a32",
+        "type" : "building",
+        "longitude" : "4.375911"
+      }
+    } ],
+    "name" : "PHS",
+    "instanceTenantId" : "5dc444d31485c5004c0fb20b",
+    "id" : "904b485e-899a-4bba-9901-c0b0002f8a32",
+    "siteHierarchy" : "7b56c272-4ccd-4187-8820-b7b66fdce4be/36a22a52-be31-4140-b555-c319a7c2e697/904b485e-899a-4bba-9901-c0b0002f8a32",
+    "siteNameHierarchy" : "Global/Bruxelles/PHS"
+  } ]
+}
